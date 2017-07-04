@@ -691,7 +691,7 @@ main a.article:last-of-type article:after {
   padding-bottom: 20px;
 }
 main a.article:hover h2 {
-  color: #fafafa;
+  color: #1d9cf7;
   -webkit-transition: color 0.3s ease;
   -moz-transition: color 0.3s ease;
   -o-transition: color 0.3s ease;
@@ -762,7 +762,7 @@ main article.full a {
   text-decoration: underline;
 }
 main article.full a:hover {
-  color: #fafafa;
+  color: #1d9cf7;
 }
 main article.full p + img {
   margin-top: 0;
@@ -1001,7 +1001,7 @@ main article.full .round-button {
 }
 main article.full .round-button:hover {
   border: 3px solid $link-article-color;
-  color: #fafafa;
+  color: #1d9cf7;
 }
 main article.full .punch-button {
   background: #1d9cf7;
@@ -1188,7 +1188,7 @@ dl dd {
 }
 code,
 tt {
-  background: #fafafa;
+  background: #1d9cf7;
   border-radius: 0.2em;
   color: #fafafa;
   font-family: 'Fira Mono', monospace, sans-serif;
